@@ -1,0 +1,6 @@
+{
+  "name": "Sahkaar Seva - Cooperative Gig Platform",
+  "description": "Cooperative Gig Services Platform for Household, Community & Agricultural Services connecting verified labour cooperative workers with fair wages, welfare, and AI demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
